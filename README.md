@@ -11,7 +11,7 @@ This repository contains a straightforward full-stack todo application built wit
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Project Preview](#projectpreview)
+- [Preview](#preview)
 - [License](#license)
 
 ## Installation
@@ -36,7 +36,7 @@ npm start
 - Search and filter todo with pagination
 - Scalable and well-documented codebase
 
-## Project Preview
+## Preview
 
 <div>
 <img src="https://github.com/vishal-benake/todo-app/blob/main/public/img/todo.png">
